@@ -1,0 +1,14 @@
+{
+  "name": "ErrantPackages",
+  "version": "1.0.0",
+  "description": "Packages that refuse to or are unreliable to get from behind a coroporate firewall and proxy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "to-array": "^0.1.4"
+  }
+}
